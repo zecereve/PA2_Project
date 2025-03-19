@@ -4,7 +4,7 @@
 Bu proje, Git ve GitHub kullanımını öğrenmek amacıyla oluşturulmuştur. Proje, koordinat verilerini işleyen basit bir Python programı içerir.
 
 ## Resimler
-![Proje Diyagramı](img/diagram.png)
+![Git Workflow Diagram](img/gitflow_diagram.png)
 
 ## Tablo Örneği
 Aşağıda `coordinates.csv` dosyasındaki verilerin bir örneği bulunmaktadır:
