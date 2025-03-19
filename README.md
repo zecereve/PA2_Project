@@ -1,4 +1,4 @@
-# Proje Başlığı
+# PA_Project2
 
 ## Proje Açıklaması
 Bu proje, Git ve GitHub kullanımını öğrenmek amacıyla oluşturulmuştur.
